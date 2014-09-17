@@ -1,3 +1,3 @@
-# backendv2
+# backend
 
-a [Sails](http://sailsjs.org) application
+a [Sails](http://sailsjs.org) backend for application development
