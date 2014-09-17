@@ -1,0 +1,25 @@
+{
+  "name": "backendv2",
+  "private": true,
+  "version": "0.0.0",
+  "description": "a Sails application",
+  "keywords": [],
+  "dependencies": {
+      "grunt": "0.4.2",
+      "rc": "~0.5.0",
+      "sails": "~0.10.5",
+      "sails-disk": "^0.10.3",
+      "sails-mongo": "^0.10.4"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "debug": "node debug app.js"
+  },
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thesabbir/backendv2.git"
+  },
+  "author": "sabbir",
+  "license": "GPL"
+}
