@@ -5,7 +5,6 @@
   "description": "a Sails application",
   "keywords": [],
   "dependencies": {
-      "grunt": "0.4.2",
       "rc": "~0.5.0",
       "sails": "~0.10.5",
       "sails-disk": "^0.10.3",
@@ -21,5 +20,5 @@
     "url": "git://github.com/thesabbir/backendv2.git"
   },
   "author": "sabbir",
-  "license": "GPL"
+  "license": "MIT"
 }
